@@ -1,0 +1,13 @@
+FERTILIZER SHOP MANAGEMENT SYSTEM
+---------------------------------------------
+Open Project folder then open Management.vbp or open Management.exe
+
+--------------------------------------------------------------------------------------------------
+Vb login Form Userid= "ADMIN" and Password= "ADMIN" and registered phone number= 1234567890
+
+
+Database login details
+-------------------------
+Sql Userid="PRJ2133F1"
+Sql password="abhiram"
+
